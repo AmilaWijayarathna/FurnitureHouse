@@ -4,6 +4,6 @@
 ###This is a sample project.
 
 ####Contributors :
-      Amila Wijayarathna
-      Sachini Madushika
+                  Amila Wijayarathna
+                  Sachini Madushika
 This site is published at https://amilawijayarathna.github.io/FurnitureHouse/
